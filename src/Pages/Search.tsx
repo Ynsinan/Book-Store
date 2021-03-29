@@ -61,7 +61,7 @@ const Search = () => {
 
         <div className="search-box">
             <form role="search" onSubmit={(e) => handleSubmit(e)}>
-                <input className="search-input" type="text" placeholder="Search something.." onChange={(e) => setSearchTerm(e.target.value)}></input>
+                <input className="search-input" type="text" placeholder="Search something..." onChange={(e) => setSearchTerm(e.target.value)}></input>
                 <button className="search-btn"><i className="fas fa-search"></i></button>
             </form>
             <div className="book-content">
