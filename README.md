@@ -6,8 +6,6 @@ In this project, I created a book search using the Google Book api. I tried to u
 
 </br>
 
-[Demo](https://meal-factory.vercel.app)
-
 
 
 # Getting Started with Create React App
